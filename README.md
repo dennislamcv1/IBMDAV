@@ -1,5 +1,5 @@
 # IBMDAV
-## Data Analysis and Visualization Foundations Specialization
+## Data Analysis and Visualization Foundations Specialization (4 course series)
 
 Deriving insights from data and communicating findings has become an increasingly important part of virtually every profession. This Specialization prepares you for this data-driven transformation by teaching you the core principles of data analysis and visualization and by giving you the tools and hands-on practice to communicate the results of your data discoveries effectively.  
 
